@@ -1,0 +1,3 @@
+This is the Chem 160 test file.
+Enter your UC Merced email address on the next line and upload to GitHub.
+pfrema@ucmerced.edu
